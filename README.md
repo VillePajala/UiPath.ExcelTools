@@ -1,10 +1,10 @@
 # UiPath.ExcelTools
 A UiPath library of Excel related automation tools
 
-### Components:
+## Components:
 * EXCEL_AddImageToExcelSheet
 
-### EXCEL_AddImageToExcelSheet
+## EXCEL_AddImageToExcelSheet
 With this component, an image can be inserted to a specific sheet and cell location in a Excel file
 
 #### Arguments:
